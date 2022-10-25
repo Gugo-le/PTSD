@@ -1,0 +1,595 @@
+{
+    "INTJ": {
+        "id": "INTJ",
+        "subhead": "용의주도한 전략가",
+        "subject": "같은 자료를 여러 번 공부",
+
+        "nickname": "과학자형",
+        "img": "https://www.verywellmind.com/thmb/Pmtp_GySXWDyv9bEqxuseLI7cO8=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/istj-introversion-sensing-thinking-judgment-2795992-5c2d08b446e0fb00018d5773.png",
+        "description": [{
+                "des": "계획적이고 분석력이 대개 분석력이 높은 편이에요"
+            },
+            {
+                "des": "1분 1초까지 철저하게 계획하는 것을 좋아해요"
+            },
+            {
+                "des": "공부 중에 적절한 휴식을 가지며 복습하는 것이 적절합니다."
+            },
+            {
+                "des": "시각적 자료를 활용하면 효율이 높아집니다."
+            },
+            {
+                "des": "배운 공부 내용을 하나의 정보로 연결해서 기억력을 오래 지속시킬 수 있어요"
+            },
+            {
+                "des": "인과관계를 이해하면서 학습하고 또 학습하면서 이해도를 높이는 것이 중요해요!"
+            }
+        ],
+        "duo": [{
+            "img": "https://i.pinimg.com/564x/d5/fe/5c/d5fe5cd2078347a27be35c88cf242ec2.jpg",
+            "subhead": "ENTP",
+            "des": "지적인 도전을 두려워하지 않는 똑똑한 호기심형"
+        }],
+        "counter": [{
+            "img": "https://i.pinimg.com/564x/93/26/c5/9326c5020322d5e9113501391fda04ee.jpg",
+            "subhead": "ESFP",
+            "des": "주위에 있으면 인생이 지루할 새가 없을 정도로 즉흥적이며 열정과 에너지가 넘치는 연예인형"
+        }]
+    },
+    "INTP": {
+        "id": "INTP",
+        "subhead": "논리적인 사색가",
+        "subject": "집중적으로 체계적 공부",
+        "nickname": "아이디어뱅크형",
+        "img": "https://cdn.pixabay.com/photo/2021/01/25/13/45/valle-de-la-luna-5948365_960_720.jpg",
+        "description": [{
+                "des": "많은 것을 배우고 싶어하는 유형이예요!"
+            },
+            {
+                "des": "어려운 내용도 자신만의 방법으로 해결해내는 편입니다."
+            },
+            {
+                "des": "친구와 함께 공부하는 것 보다 혼자하는 걸 추천~!"
+            },
+            {
+                "des": "개념이 잘 정리된 자료를 통해, 이론 위주로 공부하는 것이 좋습니다."
+            },
+            {
+                "des": "집중력이 높은 편으로, 단기 공부에도 능합니다."
+            },
+            {
+                "des": "큰 틀에는 강하지만 세부적으로는 조금 더 노력할 필요가 있습니다."
+            }
+        ],
+        "duo": [{
+            "img": "https://i.pinimg.com/564x/bb/fb/b9/bbfbb9ed1e78e47dc89100fd20fced5f.jpg",
+            "subhead": "ENTJ",
+            "des": "다양한 방법 모색 및 새로운 방안을 창출하는 리더형"
+        }],
+        "counter": [{
+            "img": "https://i.pinimg.com/564x/4a/50/fe/4a50fe06a53e681dc819ff046c98e4e6.jpg",
+            "subhead": "ESFJ ",
+            "des": "사교적인 성격으로 인기가 많으며 타인을 돕는데 열성적인 세심형"
+        }]
+    },
+    "INFJ": {
+        "id": "INFJ",
+        "subhead": "선의의 옹호자",
+        "subject": "시각적 보조 도구 활용",
+        "nickname": "예언가형",
+        "img": "https://i.pinimg.com/564x/25/3b/d8/253bd8da8ee271e1b8b0c7e57f17b96a.jpg",
+        "description": [{
+                "des": "조용한 곳에서 차분하게 혼자 공부하는 것이 가장 좋습니다."
+            },
+            {
+                "des": "공부한 내용을 누군가에게 설명하듯이 암기하면 효율적입니다."
+            },
+            {
+                "des": "단순 암기에 취약하기 떄문에 시각자료를 활용하는 것이 좋습니다."
+            },
+            {
+                "des": "고민이 많아 스트레스를 받기 쉬우니 멘탈관리도 신경 써야 합니다."
+            },
+            {
+                "des": "한번 터득한건 쉽게 까먹지 않는 타입입니다."
+            },
+            {
+                "des": "독학에 능하고 부딪히며 공부하는 것을 좋아합니다."
+            },
+            {
+                "des": "지도자의 경우 효과적인 방법으로 지도해주면 좋습니다."
+            }
+        ],
+        "duo": [{
+            "img": "https://i.pinimg.com/564x/e9/7a/73/e97a73cf39c6af24dbe8c96b89fc8251.jpg",
+            "subhead": "ENFP",
+            "des": "창의적이고 활발한 성격으로 자유롭게 어울리기를 좋아하는 넘치는 열정의 소유자"
+        }],
+        "counter": [{
+            "img": "https://i.pinimg.com/564x/b2/f6/6c/b2f66c6580649d8e0220e9b6160e528f.jpg",
+            "subhead": "ESTP",
+            "des": "벼랑 끝에 아슬아슬한 삶을 진정으로 즐길 줄 아는 이들로 뛰어난 직관력을 가지고 있는 유형"
+        }]
+    },
+    "INFP": {
+        "id": "INFP",
+        "subhead": "열정적인 중재자",
+        "subject": "이론적 근거와 혼자 학습",
+        "nickname": "열정적인 중재자",
+        "img": "https://i.pinimg.com/564x/e4/80/f5/e480f54e812e0b9d6f9b13df98f3624d.jpg",
+        "description": [{
+                "des": "세부적으로 꼼꼼하게 공부하는 것 보다는 목차를 보며 전체적으로 공부하는 유형입니다."
+            },
+            {
+                "des": "좋아하는 과목에 치우쳐 공부하는 경향이 있습니다."
+            },
+            {
+                "des": "이론적 근거를 확실히 파악하며 공부하는 것이 좋습니다."
+            },
+            {
+                "des": "벼락치기에 약하기 때문에 일정 시간을 꾸준히 투자하여 공부하는 것이 좋습니다."
+            },
+            {
+                "des": "현실적으로 실행 가능한 계획을 짜보는 것을 추천합니다."
+            },
+            {
+                "des": "꾸준한 시간에 공부하는 습관을 들여보세요."
+            },
+            {
+                "des": "단순한 주입식 교육보다는 원리가 왜 그런지 그 원리에 대한 근거가 무엇인지 차례대로 가르쳐야합니다."
+            }
+        ],
+        "duo": [{
+            "img": "https://i.pinimg.com/564x/63/28/df/6328dfcb31c1dc4cc5f1796f9525dfe9.jpg",
+            "subhead": "ENFJ",
+            "des": "넘치는 카리스마와 영향력으로 청중을 압도하는 리더형"
+        }],
+        "counter": [{
+            "img": "https://i.pinimg.com/564x/4a/50/fe/4a50fe06a53e681dc819ff046c98e4e6.jpg",
+            "subhead": "ESFJ",
+            "des": "사교적인 성격으로 인기가 많으며 타인을 돕는데 열성적인 세심형"
+        }]
+    },
+    "ISTJ": {
+        "id": "ISTJ",
+        "subhead": "청렴결백한 논리주의자",
+        "subject": "실 사례 학습이해도 up!",
+        "nickname": "세상의 소금형",
+        "img": "https://i.pinimg.com/564x/a3/38/d9/a338d9ee09c35a904f5e03f2452ae028.jpg",
+        "description": [{
+                "des": "할 일을 다음 날로 미루지 않는 강한 집중력을 가지고 있습니다."
+            },
+            {
+                "des": "확실한 목표를 세우고 계획적으로 공부하는 것이 좋습니다."
+            },
+            {
+                "des": "그룹으로 공부하는 것 보다는 혼자 공부하는 것이 효율적입니다."
+            },
+            {
+                "des": "구체적 사례를 통해 개념을 익히는 게 좋습니다."
+            },
+            {
+                "des": "시각자료를 활용하는 것 또한 추천합니다."
+            },
+            {
+                "des": "로드맵을 잘 제시해주지 않으면 우물 안의 개구리가 될 수 있습니다."
+            },
+            {
+                "des": "지속적으로 공부를 할 수 있다면 좋은 결과를 기대할 수 있습니다."
+            }
+        ],
+        "duo": [{
+            "img": "https://i.pinimg.com/564x/b2/f6/6c/b2f66c6580649d8e0220e9b6160e528f.jpg",
+            "subhead": "ESTP",
+            "des": "벼랑 끝에 아슬아슬한 삶을 진정으로 즐길 줄 아는 이들로 뛰어난 직관력을 가지고 있는 유형"
+        }],
+        "counter": [{
+            "img": "https://i.pinimg.com/564x/e9/7a/73/e97a73cf39c6af24dbe8c96b89fc8251.jpg",
+            "subhead": "ENFP",
+            "des": "창의적이고 활발한 성격으로 자유롭게 어울리기를 좋아하는 넘치는 열정의 소유자"
+        }]
+    },
+    "ISFJ": {
+        "id": "ISFJ",
+        "subhead": "용감한 수호자",
+        "subject": "단순 암기를 꾸준히 반복",
+        "nickname": "임금뒷편의 권력형",
+        "img": "https://i.pinimg.com/564x/2e/4f/72/2e4f721b8c47aff9ef7303147d62f328.jpg",
+        "description": [{
+                "des": "책임감이 강하기 때문에 벼락치기보다는 꾸준한 공부를 선호합니다."
+            },
+            {
+                "des": "목표 지향적이기 때문에 미리 구체적인 계획을 짠 후 공부하는 것이 효율적입니다."
+            },
+            {
+                "des": "혼자 조용히 집중할 수 있는 환경에서 공부하는 것이 좋습니다."
+            },
+            {
+                "des": "단순 암기에 강한 편입니다."
+            },
+            {
+                "des": "같은 내용을 여러번 반복해서 공부하는 것이 좋습니다."
+            },
+            {
+                "des": "지나친 경쟁 상황은 견디지 못하기 때문에 칭찬을 많이 해주세요."
+            }
+        ],
+        "duo": [{
+            "img": "https://i.pinimg.com/564x/93/26/c5/9326c5020322d5e9113501391fda04ee.jpg",
+            "subhead": "ESFP",
+            "des": "주위에 있으면 인생이 지루할 새가 없을 정도로 즉흥적이며 열정과 에너지가 넘치는 연예인형"
+        }],
+        "counter": [{
+            "img": "https://i.pinimg.com/564x/d5/fe/5c/d5fe5cd2078347a27be35c88cf242ec2.jpg",
+            "subhead": "ENTP",
+            "des": "지적인 도전을 두려워하지 않는 똑똑한 호기심형"
+        }]
+    },
+    "ISTP": {
+        "id": "ISTP",
+        "subhead": "만능 재주꾼",
+        "subject": "혼자 공부하며 정확한 응용",
+        "nickname": "백과사전형",
+        "img": "https://i.pinimg.com/564x/d2/0f/23/d20f2344aaa0ec4a22430526c21f0887.jpg",
+        "description": [{
+                "des": "탐구에 강하기 때문에 표, 사진, 영상들 다양한 자료를 통해 공부하는 것이 좋습니다."
+            },
+            {
+                "des": "혼자 천천히 여유를 가지고 공부하는 것이 좋습니다."
+            },
+            {
+                "des": "구체적인 부분까지 잘 기억하는 편입니다."
+            },
+            {
+                "des": "시각적인 학습 자료로 공부의 관심도를 높여야 합니다."
+            },
+            {
+                "des": "해결책 중심의 학습을 하는 것이 기억에 오래남고 재미있게 공부할 수 있는 유형입니다."
+            },
+            {
+                "des": "구체적이고 세밀한 학습으로 이끌어주고 여유있는 학습 계획이 좋습니다."
+            },
+            {
+                "des": "칭찬보다는 현실적인 보상을 해주세요."
+            }
+        ],
+        "duo": [{
+            "img": "https://i.pinimg.com/564x/bc/86/f6/bc86f6871d4e63239ae8a8898b097de7.jpg",
+            "subhead": "ESTJ",
+            "des": "사물이나 사람을 관리하는 데 타의 추종을 불허하는 뛰어난 실력을 잦춘 관리자형"
+        }],
+        "counter": [{
+            "img": "https://i.pinimg.com/564x/63/28/df/6328dfcb31c1dc4cc5f1796f9525dfe9.jpg",
+            "subhead": "ENFJ",
+            "des": "넘치는 카리스마와 영향력으로 청중을 압도하는 리더형"
+        }]
+    },
+    "ISFP": {
+        "id": "ISFP",
+        "subhead": "호기심 많은 예술가",
+        "subject": "미학적 자료의 그룹 스터디",
+        "nickname": "성인군자형",
+        "img": "https://i.pinimg.com/564x/af/dd/76/afdd76c76f41b1f4c2bb65e590089a2e.jpg",
+        "description": [{
+                "des": "즉흥적인 성향으로, 좋아하는 과목에만 치우쳐 공부할 가능성이 높습니다."
+            },
+            {
+                "des": "미적 즐거움을 중시하기 때문에 알록달록한 필기구를 활용해 공부를 합니다."
+            },
+            {
+                "des": "시각적 자료를 충분히 활용하는 것이 좋습니다."
+            },
+            {
+                "des": "벼락치기에 강한 편입니다."
+            },
+            {
+                "des": "미학적인 방식의 공부 자료가 있을 때 능률이 높아집니다."
+            },
+            {
+                "des": "나쁘게 말하면 흔히 계획과 준비는 철저하나 지속에 악할 확률이 높습니다."
+            }
+        ],
+        "duo": [{
+            "img": "https://i.pinimg.com/564x/4a/50/fe/4a50fe06a53e681dc819ff046c98e4e6.jpg",
+            "subhead": "ESFJ",
+            "des": "사교적인 성격으로 인기가 많으며 타인을 돕는데 열성적인 세심형"
+        }],
+        "counter": [{
+            "img": "https://i.pinimg.com/564x/bb/fb/b9/bbfbb9ed1e78e47dc89100fd20fced5f.jpg",
+            "subhead": "ENTJ",
+            "des": "다양한 방법 모색 및 새로운 방안을 창출하는 리더형"
+        }]
+    },
+    "ESTP": {
+        "id": "ESTP",
+        "subhead": "모험을 즐기는 사업형",
+        "subject": "논리적 흐름 실질적 지식",
+        "nickname": "인싸형",
+        "img": "https://i.pinimg.com/564x/b2/f6/6c/b2f66c6580649d8e0220e9b6160e528f.jpg",
+        "description": [{
+                "des": "넘치는 에너지와 행동력까지 갖췄기에 멀티에 능합니다."
+            },
+            {
+                "des": "여럿이 그룹 스터디를 하는 것이 효율적입니다."
+            },
+            {
+                "des": "이론적 내용을 싫어해서, 구체적 사례를 통해 공부하는 것이 좋습니다."
+            },
+            {
+                "des": "세밀한 사례를 든 설명을 참조하는 것이 좋은 공부법입니다."
+            },
+            {
+                "des": "사실적인 방법으로 정보를 이해하고 이를 응용할 수 있는 방법까지 파악하는 데에 능한 타입"
+            },
+            {
+                "des": "그렇기 때문에 논리적 흐름이 분명한 내용으로 공부하는 것이 좋습니다."
+            }
+        ],
+        "duo": [{
+            "img": "https://i.pinimg.com/564x/a3/38/d9/a338d9ee09c35a904f5e03f2452ae028.jpg",
+            "subhead": "ISTJ",
+            "des": "사실에 근거하여 생각해 한 치의 의심을 사지 않는 현실주의자형"
+        }],
+        "counter": [{
+            "img": "https://i.pinimg.com/564x/25/3b/d8/253bd8da8ee271e1b8b0c7e57f17b96a.jpg",
+            "subhead": "INFJ",
+            "des": "조용하고 신비로우며 샘솟는 영감으로 지칠 줄 모르는 이상주의자"
+        }]
+    },
+    "ESFP": {
+        "id": "ESFP",
+        "subhead": "자유로운 영혼의 연예인",
+        "subject": "매력적인 자료 활용",
+        "nickname": "인맥왕",
+        "img": "https://i.pinimg.com/564x/54/b6/b3/54b6b3ed8b24a17a27f2ffe028713f3d.jpg",
+        "description": [{
+                "des": "경쟁자 유형의 그룹스터디보단 한꼐 진행하는 형태의 그룹스터디가 효율적입니다."
+            },
+            {
+                "des": "구체적인 내용을 선호합니다."
+            },
+            {
+                "des": "시청각 자료를 활용하여 공부하는 것이 좋습니다."
+            },
+            {
+                "des": "자신의 생각을 표현하고 타인의 피드백에 적극적이라 타인의 피드백에 적극적이라 다양한 응용법을 빠르게 파악합니다."
+            },
+            {
+                "des": "공부 자료가 얼마나 잘 정리되어 있는지는 중요하게 생각하지 않는데요."
+            },
+            {
+                "des": "감정을 자극하는 매력적인 자료에 높은 집중력을 발휘합니다."
+            }
+        ],
+        "duo": [{
+            "img": "https://i.pinimg.com/564x/2e/4f/72/2e4f721b8c47aff9ef7303147d62f328.jpg",
+            "subhead": "ISFJ",
+            "des": "소중한 이들을 수호하는 데 심혈을 기울이는 헌신적이며 성실한 방어자형"
+        }],
+        "counter": [{
+            "img": "https://www.verywellmind.com/thmb/Pmtp_GySXWDyv9bEqxuseLI7cO8=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/istj-introversion-sensing-thinking-judgment-2795992-5c2d08b446e0fb00018d5773.png",
+            "subhead": "INTJ",
+            "des": "상상력이 풍부하여 철두철미한 계획을 세우는 전략가형"
+        }]
+    },
+
+    "ENTJ": {
+        "id": "ENTJ",
+        "subhead": "대담한 통솔자",
+        "subject": "분석적 토론에 공부 내용 활용",
+        "nickname": "지도자형",
+        "img": "https://i.pinimg.com/564x/bb/fb/b9/bbfbb9ed1e78e47dc89100fd20fced5f.jpg",
+        "description": [{
+                "des": "지금 공부하는 내용이 자신에게 어떤 도움이 될지를 염두에 두는 타입"
+            },
+            {
+                "des": "타인의 칭찬이 공부를 할 때 큰 원동력이 됩니다."
+            },
+            {
+                "des": "따라서 친구와 함꼐 토론하며 공부할 때의 효율이 가장 좋습니다."
+            },
+            {
+                "des": "어려운 내용을 공부할 때 성취감을 느낍니다."
+            },
+            {
+                "des": "토론 등 다른 사람들과 협업하는 방법으로 공부하는 것이 좋습니다."
+            },
+            {
+                "des": "의견을 공유하고 함께 하는 공부에 큰 효율을 일으킵니다."
+            }
+        ],
+        "duo": [{
+            "img": "https://cdn.pixabay.com/photo/2021/01/25/13/45/valle-de-la-luna-5948365_960_720.jpg",
+            "subhead": "INTP",
+            "des": "끊임없이 새로운 지식에 목말라하는 혁신가형"
+        }],
+        "counter": [{
+            "img": "https://i.pinimg.com/564x/af/dd/76/afdd76c76f41b1f4c2bb65e590089a2e.jpg",
+            "subhead": "ISFP",
+            "des": "항시 새로운 것을 찾아 시도하거나 도전할 준비가 되어있는 매력 넘치는 예술가형"
+        }]
+    },
+    "ENTP": {
+        "id": "ENTP",
+        "subhead": "뜨거운 논쟁을 즐기는 변론가",
+        "subject": "이론과 논리를 파악 후 빠르게",
+        "nickname": "발명가형",
+        "img": "https://i.pinimg.com/564x/d5/fe/5c/d5fe5cd2078347a27be35c88cf242ec2.jpg",
+        "description": [{
+                "des": "어려운 문제를 풀어낼 때 큰 성취감을 느낍니다."
+            },
+            {
+                "des": "쉬운 내용을 공부할 때는 오히려 흥미를 느끼지 못합니다."
+            },
+            {
+                "des": "예시를 활용해 개념 정리하는 것이 효율적입니다."
+            },
+            {
+                "des": "요점을 빠르게 파악하기 때문에 진도를 빠르게 진행하는 것도 좋습니다."
+            },
+            {
+                "des": "같은 이유로 벼락치기로도 좋은 결과를 내곤 합니다."
+            },
+            {
+                "des": "길게 늘어트려서 공부하는 것보단 핵심만 콕콕 공부하는 타입으로 족집게 강사와 잘 맞는 유형입니다."
+            },
+            {
+                "des": "복잡한 개넘을 체계적으로 공부할 때 공부 내용을 적극적으로 적용할 수 있을 거예요."
+            }
+        ],
+        "duo": [{
+            "img": "https://www.verywellmind.com/thmb/Pmtp_GySXWDyv9bEqxuseLI7cO8=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/istj-introversion-sensing-thinking-judgment-2795992-5c2d08b446e0fb00018d5773.png",
+            "subhead": "INTJ",
+            "des": "상상력이 풍부하여 철두철미한 계획을 세우는 전략가형"
+        }],
+        "counter": [{
+            "img": "https://i.pinimg.com/564x/2e/4f/72/2e4f721b8c47aff9ef7303147d62f328.jpg",
+            "subhead": "ISFJ",
+            "des": "소중한 이들을 수호하는 데 심혈을 기울이는 헌신적이며 성실한 방어자형"
+        }]
+    },
+    "ENFJ": {
+        "id": "ENFJ",
+        "subhead": "정의로운 사회운동가",
+        "subject": "빠른 진도의 공부가 효과적",
+        "nickname": "언변능숙형",
+        "img": "https://i.pinimg.com/564x/63/28/df/6328dfcb31c1dc4cc5f1796f9525dfe9.jpg",
+        "description": [{
+                "des": "혼자 공부하는 것보다 여럿이 모여 하는 것이 좋습니다."
+            },
+            {
+                "des": "토론 같은 적극적인 학습 방법이 효과적입니다."
+            },
+            {
+                "des": "다양한 에시를 통해 이론을 이해하는 것이 좋습니다."
+            },
+            {
+                "des": "진도를 빠르게 나가는 것을 선호합니다."
+            },
+            {
+                "des": "다앙한 사례들과 예시, 자료들을 공유하면서 토론하는 학습 방법을 선호하는 유형으로 한국형 교욱과는 잘 맞지 않는 타입입니다."
+            },
+            {
+                "des": "선의의 경쟁자가 있으면 더 효율적입니다."
+            }
+        ],
+        "duo": [{
+            "img": "https://i.pinimg.com/564x/e4/80/f5/e480f54e812e0b9d6f9b13df98f3624d.jpg",
+            "subhead": "INFP",
+            "des": "상냥한 성격의 이타주의자로 건강하고 밝은 사회 건설에 앞정서는 낭만형"
+        }],
+        "counter": [{
+            "img": "https://i.pinimg.com/564x/d2/0f/23/d20f2344aaa0ec4a22430526c21f0887.jpg",
+            "subhead": "ISTP",
+            "des": "대담하고 현실적인 성향으로 다양한 도구 사용에 능숙한 탐험형"
+        }]
+    },
+    "ENFP": {
+        "id": "ENFP",
+        "subhead": "재기발랄한 활동가",
+        "subject": "토론 등의 적극적 공부",
+        "nickname": "스파크형",
+        "img": "https://i.pinimg.com/564x/e9/7a/73/e97a73cf39c6af24dbe8c96b89fc8251.jpg",
+        "description": [{
+                "des": "끈기가 부족해 공부에 금방 싫증을 냅니다."
+            },
+            {
+                "des": "좋아하는 과목 위주로만 공부하는 편입니다."
+            },
+            {
+                "des": "따라서 여럿이 모여 함께 공부하는 것을 추천합니다."
+            },
+            {
+                "des": "데드라인을 먼저 정하고, 그에 맞춰 공부를 하는 것이 좋습니다."
+            },
+            {
+                "des": "또한 어려운 과목부터 하기 보다는 흥미 있는 과목 먼저 하는 것을 추천해요."
+            },
+            {
+                "des": "자신이 즐거워하거나 흥미로운 과목은 배운 걸 이상으로 활용 가능 하기 때문에<br>차라리 과감하게 잘하는 과목을 중심으로 육성하는 것이 좋을 수 있습니다."
+            }
+        ],
+        "duo": [{
+            "img": "https://i.pinimg.com/564x/25/3b/d8/253bd8da8ee271e1b8b0c7e57f17b96a.jpg",
+            "subhead": "INFJ",
+            "des": "조용하고 신비로우며 샘솟는 영감으로 지칠 줄 모르는 이상주의자"
+        }],
+        "counter": [{
+            "img": "https://i.pinimg.com/564x/a3/38/d9/a338d9ee09c35a904f5e03f2452ae028.jpg",
+            "subhead": "ISTJ",
+            "des": "사실에 근거하여 생각해 한 치의 의심을 사지 않는 현실주의자형"
+        }]
+    },
+    "ESTJ": {
+        "id": "ESTJ",
+        "subhead": "엄격한 관리자",
+        "subject": "벼락치기보다 꾸준하게",
+        "nickname": "사업가형",
+        "img": "https://i.pinimg.com/564x/bc/86/f6/bc86f6871d4e63239ae8a8898b097de7.jpg",
+        "description": [{
+                "des": "할 일을 다음 날로 미루지 않는 강한 집중력을 가지고 있습니다."
+            },
+            {
+                "des": "확실한 목표를 세우고 계획적으로 공부하는 것이 좋습니다."
+            },
+            {
+                "des": "혼자 공부하는 것이 효율적입니다."
+            },
+            {
+                "des": "구체적 사례를 통해 개념을 익히는 게 좋습니다."
+            },
+            {
+                "des": "시각 자료를 활용하는 것 또한 추천합니다."
+            },
+            {
+                "des": "또한 공부를 할 때 학년 별로 공부해야지, 중간에 공부하면 어려워하는 타입이므로 단계적인 교육방법이 필요합니다."
+            }
+        ],
+        "duo": [{
+            "img": "https://i.pinimg.com/564x/d2/0f/23/d20f2344aaa0ec4a22430526c21f0887.jpg",
+            "subhead": "ISTP",
+            "des": "대담하고 현실적인 성향으로 다양한 도구 사용에 능숙한 탐험형"
+        }],
+        "counter": [{
+            "img": "https://i.pinimg.com/564x/e4/80/f5/e480f54e812e0b9d6f9b13df98f3624d.jpg",
+            "subhead": "INFP",
+            "des": "상냥한 성격의 이타주의자로 건강하고 밝은 사회 건설에 앞정서는 낭만형"
+        }]
+    },
+    "ESFJ": {
+        "id": "ESFJ",
+        "subhead": "사교적인 외교관",
+        "subject": "느낌 감정 자극 학습",
+        "nickname": "친선도모형",
+        "img": "https://i.pinimg.com/564x/4a/50/fe/4a50fe06a53e681dc819ff046c98e4e6.jpg",
+        "description": [{
+                "des": "여럿이서 토론하며 공부하는 것이 효과적입니다."
+            },
+            {
+                "des": "말로 설명하는 공부법이 효과적입니다."
+            },
+            {
+                "des": "그렇기에 적극적인 토론을 할수록 기억력과 공부 효율이 높아집니다."
+            },
+            {
+                "des": "암기에도 강한 편이지만, 한 번에 많은 양을 공부하면 집중력이 떨어집니다."
+            },
+            {
+                "des": "공부량을 균등하게 분배하는 것이 중요합니다."
+            },
+            {
+                "des": "특히 가르쳐주는 대상과의 교감이 높으면 높을수록 빛이 나는 타입입니다."
+            }
+        ],
+        "duo": [{
+            "img": "https://i.pinimg.com/564x/af/dd/76/afdd76c76f41b1f4c2bb65e590089a2e.jpg",
+            "subhead": "ISFP",
+            "des": "항시 새로운 것을 찾아 시도하거나 도전할 준비가 되어있는 매력 넘치는 예술가형"
+        }],
+        "counter": [{
+            "img": "https://cdn.pixabay.com/photo/2021/01/25/13/45/valle-de-la-luna-5948365_960_720.jpg",
+            "subhead": "INTP",
+            "des": "끊임없이 새로운 지식에 목말라하는 혁신가형"
+        }]
+    }
+}
