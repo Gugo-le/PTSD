@@ -126,3 +126,4 @@ deploy netlify
 # mbti-travel
 # super-duper-carnival
 # super-duper-carnival
+# mbti-study
