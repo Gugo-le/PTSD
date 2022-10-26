@@ -1,20 +1,19 @@
-# Feliz for Travel :airplane:
+# PTSD : Prove The Study Day
 
-<img src="https://user-images.githubusercontent.com/62472550/109385258-eb217c80-7935-11eb-8d19-0a112d4446ea.png" width="300">
+<img src="./public/img/FelizLogo.png">
 
-**링크**
-<a>https://felizmbti.netlify.app/
 
 ## About this
 
+
 **제작동기**
 
-최근에 유행한 MBTI 16개 유형을 바탕으로 각자 성향에 맞는 여행지를 추천해주는 React웹앱이다.
-유명한 MBTI테스트 사이트 중 MBTI유형에 기반한 해외여행지 추천에 대한 마땅한 사이트가 없었고,
-코로나 사태가 장기간 지속됨으로 인한 해외여행에 대한 일반인들의 니즈가 크다고 판단하여 제작하게 되었다.
+최근에 유행한 MBTI 16개 유형을 바탕으로 각자 성향에 맞는 공부 방법을 추천해주는 React 웹앱이다.
+학교에서 5일 동안 자율 과정 프로젝트를 진행 중이다. 
+우리는 빅데이터를 바탕으로 한 미래 교육 탐구라는 주제로 프로젝트를 진행 중이다.
 
 **제작기간**
-2021.02.12 ~ 2021.02.25
+2022.10.24 ~ 2022.10.26
 
 **제작인원**
 1명
@@ -22,45 +21,51 @@
 **실행순서**
 1. 사용자는 2개의 선택지 중 하나의 선택지를 고르게 된다.
 
-2. 총 12단계의 선택을 하게되면 자신의 결정에 따른 MBTI결과와 이에 대응하는 여행지를 하단에 추천해준다.
+2. 총 12단계의 선택을 하게되면 자신의 결정에 따른 MBTI결과와 이에 대응하는 공부 방법을 하단에 추천해준다.
 
 3. 자신의 성향과 맞는 다른 유형의 사람을 추천해준다.
-	
-**실행화면**
 
-|     ![home](https://user-images.githubusercontent.com/62472550/109384839-e14a4a00-7932-11eb-8183-1e730136cbb7.PNG)      |     ![main](https://user-images.githubusercontent.com/62472550/109384840-e27b7700-7932-11eb-82ca-1541b2aa33e1.PNG)     | ![playing_page](https://user-images.githubusercontent.com/62472550/109384842-e27b7700-7932-11eb-8319-f6dd2e37bcfe.PNG) |
-| :---------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------: |
-| ![delaying_page](https://user-images.githubusercontent.com/62472550/109384843-e3140d80-7932-11eb-818b-8990afc06dce.PNG) | ![result1_page](https://user-images.githubusercontent.com/62472550/109384845-e3aca400-7932-11eb-96bf-7cd9abf76995.PNG) | ![result2_page](https://user-images.githubusercontent.com/62472550/109384846-e4453a80-7932-11eb-9671-387425cc1723.PNG) |
+**모둠**
+<br>
+1.(모둠장) 구현승: 데이터 마이닝, 데이터 분석 및 시각화, <br>인공지능 학습 및 React웹앱 제작, ppt제작, 보고서 작성 <br>
+2. 김민재: 데이터 수집 <br>
+3. 박건우: 자료 정리 및 데이터 마이닝 <br>
+4. 방승환: 자료 수집 <br>
+5. 이준서: ppt 제작 및 자료 조사 및 보고서 작성<br>
+6. 이혜원: ppt 제작 및 보고서 작성
+
+
+	
+
 
 
 <br />
 
 ## 참고자료
 
-1. Forbes
-   <a>https://www.forbes.com/sites/alexandratalty/2019/12/08/where-should-you-travel-based-your-myers-briggs-personality-type/?sh=4d821bb36dc0
+1. 우리 반 아이들 설문 조사
 
-2. MBTI 성격유형에 따른 관광자 행동의 차이: 20대 젊은 층을 대상으로 (**권보민, 박은경 관광경영연구 제23권 제2호**)
-   <a>https://academic.naver.com/article.naver?doc_id=559917672
+2. 건우의 데이터 통계 자료
+<br>
 
-## Dependencies & Tools
+## Dependencies & Tools 
+<br>
 
 # **tools**
 
 **tools**
 
 IDE : VScode
-Deploy : netlify
 Framework : ReactJS
 
-**dependencies**
+
 
 **dependencies**
 
 1. fontawesome : 고퀄리티의 아이콘을 위하여 사용하였음
 2. react-copy-clipboard : 링크 복사 기능을 위하여 사용함
 3. react-router-dom : 라우터를 사용하여 결과물을 출력하기 위하여 사용
-4. styled-reset : css초기화 등을 간편하게 하기 위하여 사용함.
+4. styled-reset : css 초기화 등을 간편하게 하기 위하여 사용함.
 
 ```
 	"dependencies": {
@@ -95,23 +100,15 @@ Framework : ReactJS
 create-react-app
 ```
 
-2.yarn 설치
+2.설치하기
 
 ```
-npm install --global yarn
+npm install
 ```
-
-3.실행하기
-
-```
-yarn start
-```
-
-**_배포 방법_**
-1.yarn build
+3. 빌드하기
 
 ```
-yarn build
+npm start
 ```
 
 2.deploy netilfy
@@ -120,10 +117,8 @@ yarn build
 deploy netlify
 ```
 
-2-1. 혹시 netlify를 사용할 줄 모른다면 참고해주시길 바랍니다.
 
-<a>https://levelup.gitconnected.com/how-to-deploy-a-react-app-with-netlify-set-up-continuous-deployment-via-github-53859dcdaf40
-# mbti-travel
-# super-duper-carnival
-# super-duper-carnival
+
+
+
 # mbti-study
