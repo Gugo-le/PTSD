@@ -10,7 +10,7 @@
 
 최근에 유행한 MBTI 16개 유형을 바탕으로 각자 성향에 맞는 공부 방법을 추천해주는 React 웹앱이다.
 학교에서 5일 동안 자율 과정 프로젝트를 진행 중이다. 
-우리는 빅데이터를 바탕으로 한 미래 교육 탐구라는 주제로 프로젝트를 진행 중이다.
+우리는 빅데이터를 바탕으로 한 미래 교육 탐구라는 주제로 프로젝트를 진행하였다.
 
 **제작기간**
 2022.10.24 ~ 2022.10.26
@@ -27,7 +27,7 @@
 
 **모둠**
 <br>
-1.(모둠장) 구현승: 데이터 마이닝, 데이터 분석 및 시각화, <br>인공지능 학습 및 React웹앱 제작, ppt제작, 보고서 작성 <br>
+1.구현승(모둠장): 데이터 마이닝, 데이터 분석 및 시각화, <br>인공지능 학습 및 React웹앱 제작, ppt제작, 보고서 작성 <br>
 2. 김민재: 데이터 수집 <br>
 3. 박건우: 자료 정리 및 데이터 마이닝 <br>
 4. 방승환: 자료 수집 <br>
@@ -67,28 +67,7 @@ Framework : ReactJS
 3. react-router-dom : 라우터를 사용하여 결과물을 출력하기 위하여 사용
 4. styled-reset : css 초기화 등을 간편하게 하기 위하여 사용함.
 
-```
-	"dependencies": {
-		"@fortawesome/fontawesome-free": "^5.15.2",
-		"@fortawesome/fontawesome-svg-core": "^1.2.34",
-		"@fortawesome/free-brands-svg-icons": "^5.15.2",
-		"@fortawesome/free-regular-svg-icons": "^5.15.2",
-		"@fortawesome/free-solid-svg-icons": "^5.15.2",
-		"@fortawesome/react-fontawesome": "^0.1.14",
-		"@testing-library/jest-dom": "^5.11.4",
-		"@testing-library/react": "^11.1.0",
-		"@testing-library/user-event": "^12.1.10",
-		"postcss": "^8.2.6",
-		"react": "^17.0.1",
-		"react-copy-to-clipboard": "^5.0.3",
-		"react-dom": "^17.0.1",
-		"react-router-dom": "^5.2.0",
-		"react-scripts": "4.0.2",
-		"styled-components": "^5.2.1",
-		"styled-reset": "^4.3.4",
-		"web-vitals": "^1.0.1"
-	},
-```
+
 
 ## How to use
 
