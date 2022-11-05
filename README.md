@@ -90,7 +90,7 @@ npm install
 npm start
 ```
 
-4.deploy netilfy
+4. deploy netilfy
 
 ```
 deploy netlify
