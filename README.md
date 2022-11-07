@@ -5,6 +5,9 @@
 
 ## About this
 
+**개발일지**
+개발 일지: [https://blog.naver.com/rngustmd0719/222909297978&logNo=222831236029&navType=by](https://blog.naver.com/rngustmd0719/222909297978&logNo=222831236029&navType=by) 
+
 
 **제작동기**
 
