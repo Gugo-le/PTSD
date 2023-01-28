@@ -104,6 +104,6 @@ deploy netlify
 
 
 
-
+이용해보기 [https://ptsd.netlify.app/]
 
 # mbti-study
